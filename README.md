@@ -2,7 +2,9 @@
 
 **Digital Craftsman (Business Analytics/ Data Science)**
 
-Hi there! I'm a self-taught business analyst and data scientist who discovered a love for data back in my university days. Alongside my coursework, I dove deep into learning key skills like SQL, Python, and Tableau on my own, eager to explore how data can drive business decisions. Over the years, I’ve built a solid foundation in business analytics, and I’m passionate about blending data expertise with management insights to create innovative solutions.
+Hi there! Welcome to my page, I am Cheng From China 🍚, currently living in Washington D.C. , USA🍔.
+
+I'm a self-taught business analyst and data scientist who discovered a love for data back in my university days. Alongside my coursework, I dove deep into learning key skills like SQL, Python, and Tableau on my own, eager to explore how data can drive business decisions. Over the years, I’ve built a solid foundation in business analytics, and I’m passionate about blending data expertise with management insights to create innovative solutions.
 
 To me, working with data is like embarking on a treasure hunt—mining through vast datasets to uncover hidden gems of insight. In this repository, you’ll find some of my favorite projects, as well as a snapshot of my background, skills, and certifications. I hope it sparks some inspiration and offers valuable insights for you, too!
 
@@ -21,7 +23,12 @@ To me, working with data is like embarking on a treasure hunt—mining through v
 <br />
 
 #
+<details open> 
+  <summary><h2>📘 My Open Source Projects</h2></summary>
 
+
+  <a href="https://github.com/ChengHeEric?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
 ### 📊 Stats
 
