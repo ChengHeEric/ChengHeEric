@@ -39,10 +39,20 @@ To me, working with data is like embarking on a treasure hunt—mining through v
   </p>
 </details>
 
+<h3>🔥 Streak Stats</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ChengHeEric)](https://git.io/streak-stats)
+
 ### 📊 Stats
 
 
 ![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengHeEric&show_icons=true&theme=default)
 
 
-#
+[![Cheng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChengHeEric&theme=github-compact&area=true)](https://github.com/ChengHeEric/github-readme-activity-graph)
+
+<h3>⚡ Recent GitHub Activity</h3>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
