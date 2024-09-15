@@ -51,8 +51,4 @@ To me, working with data is like embarking on a treasure hunt—mining through v
 
 [![Cheng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChengHeEric&theme=github-compact&area=true)](https://github.com/ChengHeEric/github-readme-activity-graph)
 
-<h3>⚡ Recent GitHub Activity</h3>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 
