@@ -30,6 +30,15 @@ To me, working with data is like embarking on a treasure hunt—mining through v
   <a href="https://github.com/ChengHeEric?tab=repositories&q=&type=&language=&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+<details open> 
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+
+
+  <p align="left">
+    <a href="https://github.com/ChengHeEric/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  </p>
+</details>
+
 ### 📊 Stats
 
 
