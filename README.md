@@ -26,7 +26,7 @@ To me, working with data is like embarking on a treasure hunt—mining through v
 ### 📊 Stats
 
 
-![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengHeEric&show_icons=true&theme=gruvbox)
+![Cheng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChengHeEric&show_icons=true&theme=default)
 
 
 #
