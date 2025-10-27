@@ -1,10 +1,10 @@
 # 🐒 Cheng He (Eric)
 
-**Digital Craftsman (Business Analytics/ Data Science)**
+**Digital Craftsman (SWE/ Business Analytics/ Data Science)**
 
-Hi there! Welcome to my page, I am Cheng From China 🍚, currently living in Washington D.C. , USA🍔.
+Hi there! Welcome to my page, I am Cheng from China 🍚, currently living in Washington D.C. , USA🍔.
 
-I'm a self-taught business analyst and data scientist who discovered a love for data back in my university days. Alongside my coursework, I dove deep into learning key skills like SQL, Python, and Tableau on my own, eager to explore how data can drive business decisions. Over the years, I’ve built a solid foundation in business analytics, and I’m passionate about blending data expertise with management insights to create innovative solutions.
+I'm a software engineer and business analyst who discovered a love for data back in my university days. Alongside my coursework, I dove deep into learning key skills like SQL, Python, and Tableau on my own, eager to explore how data can drive business decisions. Over the years, I’ve built a solid foundation in business analytics, and I’m passionate about blending data expertise with management insights to create innovative solutions.
 
 To me, working with data is like embarking on a treasure hunt—mining through vast datasets to uncover hidden gems of insight. In this repository, you’ll find some of my favorite projects, as well as a snapshot of my background, skills, and certifications. I hope it sparks some inspiration and offers valuable insights for you, too!
 
