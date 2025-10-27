@@ -13,7 +13,7 @@ To me, working with data is like embarking on a treasure hunt—mining through v
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
