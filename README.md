@@ -14,6 +14,10 @@ To me, working with data is like embarking on a treasure hunt—mining through v
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Tableau" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354428/tableau-icon.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
