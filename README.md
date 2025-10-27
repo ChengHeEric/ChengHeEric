@@ -43,10 +43,6 @@ To me, working with data is like embarking on a treasure hunt—mining through v
   </p>
 </details>
 
-<h3>🔥 Streak Stats</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ChengHeEric)](https://git.io/streak-stats)
-
 ### 📊 Stats
 
 
